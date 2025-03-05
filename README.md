@@ -20,3 +20,11 @@
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+
+
+
+![snake gif](https://github.com/orakle00z1/orakle00z1/blob/output/github-contribution-grid-snake.svg)
