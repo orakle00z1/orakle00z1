@@ -1,6 +1,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=2000&color=FFBB3A&width=435&lines=Hi+;I'm+Mahdi+Zarei+;I'm+Front-end+React+developer" alt="Typing SVG" /></a>
 
 
+
+
+
 # 💫 About Me:
 👋 Hi! I'm Mehdi Zarei<br>👨‍💻 Frontend Developer | React Specialist | Passionate About Learning & Creativity<br><br>💡 About Me:<br>I'm a frontend developer with 2 years of experience in learning and working<br>with modern web technologies. I love building beautiful, optimized, and<br>interactive user interfaces using React.js and related tools. <br>I'm always striving to improve my skills, learn new technologies,<br>and contribute to open-source projects.
 
