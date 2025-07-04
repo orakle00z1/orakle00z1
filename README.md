@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-👋 Hi! I'm Mehdi Zarei<br>👨‍💻 Frontend Developer | React Specialist | Passionate About Learning & Creativity<br><br>💡 About Me:<br>I'm a frontend developer with 2 years of experience in learning and working<br>with modern web technologies. I love building beautiful, optimized, and<br>interactive user interfaces using React.js and related tools. <br>I'm always striving to improve my skills, learn new technologies,<br>and contribute to open-source projects.
+👋 Hi! I'm Mehdi Zarei<br>👨‍💻 Frontend Developer | React Specialist | Passionate About Learning & Creativity<br><br>💡 About Me:<br>I'm a frontend developer with 3 years of experience in learning and working<br>with modern web technologies. I love building beautiful, optimized, and<br>interactive user interfaces using React.js and related tools. <br>I'm always striving to improve my skills, learn new technologies,<br>and contribute to open-source projects.
 
 
 ## 🌐 Socials:
