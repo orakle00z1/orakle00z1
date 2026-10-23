@@ -29,6 +29,22 @@
 
 
 
+<details open>
+<summary><b>📌 Top projects</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=orakle00z1&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F71765374%3Fu%3Da8e4890378907aff75b60cd2ca07db70dd607bad%26v%3D4" alt="orakle00z1 projects visual" />
+</p>
+
+- [Work-Experience](https://github.com/orakle00z1/Work-Experience) · ★ 2 — &quot;Work Experience and Presentable Details of My Experiences at a Startup&quot;
+- [Login-Firebase-](https://github.com/orakle00z1/Login-Firebase-) · ★ 2 — A React login form styled with CSS, using Firebase Realtime Database and Axios for data handling.
+- [restaurant-menu](https://github.com/orakle00z1/restaurant-menu) · ★ 2 — A restaurant menu built with React and CSS, featuring filtering and API integration via Axios.
+- [React-Router-Project](https://github.com/orakle00z1/React-Router-Project) · ★ 2 — Simple React app using React Router and Tailwind CSS.
+- [dashboard](https://github.com/orakle00z1/dashboard) · ★ 2 — A simple React dashboard under active development.
+- [coffee-site](https://github.com/orakle00z1/coffee-site) · ★ 2 — First website using HTML, JS, and Tailwind CSS.
+
+</details>
 
 
 
