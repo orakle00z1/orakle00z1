@@ -4,7 +4,7 @@
 
 
 
-# 💫 About Me:
+# About Me:
 👋 Hi! I'm Mehdi Zarei<br>👨‍💻 Frontend Developer | React Specialist | Passionate About Learning & Creativity<br><br>💡 About Me:<br>I'm a frontend developer with 3 years of experience in learning and working<br>with modern web technologies. I love building beautiful, optimized, and<br>interactive user interfaces using React.js and related tools. <br>I'm always striving to improve my skills, learn new technologies,<br>and contribute to open-source projects.
 
 
@@ -18,33 +18,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=orakle00z1&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=orakle00z1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/:)) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-
-<details open>
-<summary><b>📌 Top projects</b></summary>
-<br/>
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=orakle00z1&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F71765374%3Fu%3Da8e4890378907aff75b60cd2ca07db70dd607bad%26v%3D4" alt="orakle00z1 projects visual" />
-</p>
-
-- [Work-Experience](https://github.com/orakle00z1/Work-Experience) · ★ 2 — &quot;Work Experience and Presentable Details of My Experiences at a Startup&quot;
-- [Login-Firebase-](https://github.com/orakle00z1/Login-Firebase-) · ★ 2 — A React login form styled with CSS, using Firebase Realtime Database and Axios for data handling.
-- [restaurant-menu](https://github.com/orakle00z1/restaurant-menu) · ★ 2 — A restaurant menu built with React and CSS, featuring filtering and API integration via Axios.
-- [React-Router-Project](https://github.com/orakle00z1/React-Router-Project) · ★ 2 — Simple React app using React Router and Tailwind CSS.
-- [dashboard](https://github.com/orakle00z1/dashboard) · ★ 2 — A simple React dashboard under active development.
-- [coffee-site](https://github.com/orakle00z1/coffee-site) · ★ 2 — First website using HTML, JS, and Tailwind CSS.
-
-</details>
 
 
 
